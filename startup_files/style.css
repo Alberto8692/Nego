@@ -14,3 +14,29 @@ h1 {
 	font-size: 3rem;
 	color: #e2dbdb;
 }
+
+.btn-primary {
+	background-color: #F05F44;
+}
+
+.btn-primary:hover {
+	background-color: red;
+	border: solid 4px;
+	border-color: white;
+}
+
+.btn-xl {
+	font-weight: 700;
+	border-radius: 300px;
+	background-color: #F05F44;
+	padding: 1rem 2rem;
+}
+
+
+hora {
+	margen: 20px automático;
+	color: #F05F44;
+	borde: 3px sólido #F05F44;
+	ancho máximo: 65px;
+	_ opacidad: 1;
+}
