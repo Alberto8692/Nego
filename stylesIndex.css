@@ -1,3 +1,6 @@
-* {
-    background-color: bisque;
+div {
+	width: 25px;
+	height: 25px;
+	background-color: aqua;
+	border: solid red;
 }
